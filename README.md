@@ -21,10 +21,13 @@ A secure, role-based online banking system developed using **Spring Boot**, **Sp
 ## 🖼️ UI Previews
 
 ### 🔑 Login Page & Navigation
-<img width="932" height="506" alt="image" src="https://github.com/user-attachments/assets/04806966-5144-4d7b-97d2-ebb1dccef2a6" />
+![Login and Navbar] <img width="932" height="506" alt="image" src="https://github.com/user-attachments/assets/04806966-5144-4d7b-97d2-ebb1dccef2a6" />
 
+### 🏠 User/Admin Dashboard View
 
+After logging in, users are redirected to the dashboard. If the user has admin privileges, it shows a welcome message accordingly.
 ### 🏠 User Dashboard
+![Admin Dashboard View] <img width="952" height="460" alt="image" src="https://github.com/user-attachments/assets/ac0742bb-c8da-4475-b72c-f9d35bbcdd39" />
 
 ## 🛠️ Tech Stack
 
