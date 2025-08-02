@@ -21,6 +21,8 @@ A secure, role-based online banking system developed using **Spring Boot**, **Sp
 ## 🖼️ UI Previews
 
 ### 🔑 Login Page & Navigation
+<img width="932" height="506" alt="image" src="https://github.com/user-attachments/assets/04806966-5144-4d7b-97d2-ebb1dccef2a6" />
+
 
 ### 🏠 User Dashboard
 
